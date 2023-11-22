@@ -1,0 +1,25 @@
+{
+    "JUDUL": "Daftar Harga <br/> Jasa Joki Mobile Legend",
+    "PerBintang": {
+        "judul": "Harga Joki per Bintang",
+        "master": "Rp 5.000",
+        "grandmaster": "Rp 6.000",
+        "epic": "Rp 7.000",
+        "legend": "Rp 8.000",
+        "mythic": "Rp 9.000",
+        "honor": "Rp 10.000",
+        "glory": "Rp 11.000",
+        "immortal": "Rp 12.000"
+    },
+    "PerTier": {
+        "judul": "Harga Joki per Tier",
+        "master_gm": "Rp 100.000",
+        "gm_epic": "Rp 200.000",
+        "epic_legend": "Rp 300.000",
+        "legend_mythic": "Rp 400.000",
+        "grading_honor": "Rp 500.000",
+        "honor_glory": "Rp 600.000",
+        "glory_immortal": "Rp 700.000"
+    },
+    "nomorWA": "08123456789"
+}

@@ -1,0 +1,211 @@
+/* judul */
+#title {
+    color: white;
+    font-family: Saira;
+    margin-top: 20px;
+    line-height: 1;
+    font-weight: 900;
+    font-size: 28px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+
+
+
+
+/* bagian style naik rank per bintang */
+#perBintang {
+    color: white;
+    width: 95%;
+    margin: 80px auto 20px auto;
+}
+
+#perBintang>h1 {
+    font-family: Taylor;
+    font-size: 20px;
+    border-bottom: 3px solid rgba(208, 208, 22, 0.8);
+    width: 250px;
+    height: 27px;
+    color: white;
+}
+
+#perBintang>div {
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+#perBintang>div>div {
+    color: white;
+    background-color: grey;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    width: 150px;
+    height: 130px;
+    border: 2px solid var(--putihTransparant);
+    border-radius: 4px;
+}
+
+#perBintang>div>div>img {
+    color: white;
+    width: 70px;
+}
+
+#perBintang>div>div>h5 {
+    color: white;
+    font-family: Amaranth;
+    letter-spacing: 1px;
+    font-size: 16px;
+}
+
+#perBintang>div>div>span {
+    font-family: Taylor;
+    color: white;
+    font-weight: 900;
+    font-size: 20px;
+    color: rgb(255, 241, 214);
+}
+
+
+
+
+
+/* bagian style naik rank per Tier */
+#perTier {
+    color: white;
+    width: 95%;
+    margin: 80px auto 20px auto;
+}
+
+#perTier>h1 {
+    font-family: Taylor;
+    font-size: 20px;
+    border-bottom: 3px solid rgba(208, 208, 22, 0.8);
+    width: 250px;
+    height: 27px;
+    color: white;
+}
+
+#perTier>div {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 20px;
+    color: white;
+}
+
+#perTier>div>div {
+    background-color: grey;
+    color: white;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    width: 200px;
+    height: 150px;
+    border: 2px solid var(--putihTransparant);
+    border-radius: 4px;
+}
+
+#perTier>div>div>img {
+    width: 70px;
+    color: white;
+}
+
+#perTier>div>div>h5 {
+    font-family: Amaranth;
+    letter-spacing: 1px;
+    color: white;
+    font-size: 16px;
+}
+
+#perTier>div>div>span {
+    font-family: Taylor;
+    font-weight: 900;
+    font-size: 20px;
+    color: rgb(255, 241, 214);
+}
+
+
+
+/* style order by whatsapp */
+#orderWA {
+    color: white;
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#orderWA>div {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 320px;
+    height: 100px;
+    background-color: #0b7a68;
+    border-radius: 10px;
+    gap: 4px;
+    cursor: pointer;
+}
+
+#orderWA>div:hover {
+    background-color: #096c5b;
+    color: white;
+}
+
+#orderWA svg {
+    fill: white;
+    color: white;
+}
+
+#orderWA>div>div>h5 {
+    font-size: 25px;
+    color: white;
+    font-family: Amaranth;
+}
+
+#orderWA>div>div>h2 {
+    font-size: 30px;
+    color: white;
+    font-family: Taylor;
+    margin-top: -10px;
+}
+
+
+/* tombol kembali ke beranda */
+#backHome {
+    margin: 100px auto 50px auto;
+    color: white;
+    width: 95%;
+}
+
+#backHome>a {
+    display: flex;
+    justify-content: center;
+    color: white;
+    align-items: center;
+    background-color: #2980b9;
+    width: 200px;
+    height: 50px;
+    text-decoration: none;
+    font-family: Saira;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+#backHome>a:hover {
+    background-color: #2576ac;
+    color: white;
+}
+
+#backHome>a>span {
+    color: white;
+    margin-right: 10px;
+    transform: rotate(180deg);
+}

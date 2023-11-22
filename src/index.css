@@ -19,6 +19,7 @@ br {
     --warnaUtama: #2980b9;
     --putihTransparant: rgba(255, 255, 255, 0.8);
     --warnaBorder: rgba(144, 144, 144, 0.86);
+    --bgBody: rgb(72, 72, 72);
 }
 
 svg {
